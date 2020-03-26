@@ -14,11 +14,11 @@ sidebar:
     # Sidebar links
     email: jay.perna@gmail.com
     website: blog.webjeda.com #do not add http://
-    linkedin: linkedin.com/in/james-perna-a949b44a
-    github: sharu725
+    linkedin: james-perna
+    github: jayperna
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,11 +27,11 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: 
+        level: 
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
     interests:
       - item: Climbing
@@ -53,9 +53,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Molecular, Cell, and Developmental Biology
+      university: University of California, Santa Cruz
+      time: 2014 - [expected 09/2020]
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -64,9 +64,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Neuroscience and Behavior
+      university: University of California, Santa Cruz
+      time: 2006 - 2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,20 +76,14 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Ph.D. Candidate
+      time: 2014 - Present
+      company: University of California, Santa Cruz
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
+        Investigated how early-life penicillin exposure affects the development of inhibitory circuits and microglia in the sensory 
+        region of the cerebral cortex as well as sensory processing 
+        behaviors and maturation of microbiota
+          - •	Developed fluorescent and DAB IHC protocols as well as wide field imaging protocols to measure neuronal and glial density differences between conditions
           - Bullet point
     - role: Senior Software Engineer
       time: 2014 - 2015
