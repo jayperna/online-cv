@@ -80,11 +80,37 @@ experiences:
       time: 2014 - Present
       company: University of California, Santa Cruz
       details: |
-        Investigated how early-life penicillin exposure affects the development of inhibitory circuits and microglia in the sensory 
+        Investigated how early-life penicillin exposure affects the 
+        development of inhibitory circuits and microglia in the sensory 
         region of the cerebral cortex as well as sensory processing 
         behaviors and maturation of microbiota
-          - •	Developed fluorescent and DAB IHC protocols as well as wide field imaging protocols to measure neuronal and glial density differences between conditions
-          - Bullet point
+          - Developed fluorescent and DAB IHC protocols as well as wide field 
+          imaging protocols to measure neuronal and glial density differences 
+          between conditions
+          - Developed a fluorescent IHC protocol, a confocal imaging protocol, 
+          as well as a semiautomated analysis pipeline in Bitplane Imaris to 
+          measure morphological differences in microglia between different 
+          conditions
+          - Developed a semiautomated analysis pipeline in Bitplane Imaris to 
+          measure differences in microglial cell dynamics between conditions
+          - Purified total RNA from cerebral cortex tissue, synthesized cDNA, 
+          and performed RT-qPCRs to quantify differences in expression for a 
+          number of genes between conditions and ages
+          - Purified bacterial DNA, developed and performed a 16S library 
+          preparation protocol for Illumina 2x300bp MiSeq, and performed data 
+          analysis to characterize differences between conditions
+          - Employed a number of mouse behavioral assays (Open Field Maze, 
+          Novel Object Recognition Test, Y Maze Spontaneous Alteration Test, 
+          Acoustic Startle Reflex and Prepulse Inhibition Tests, Three-
+          Chamber Social Approach Test) and developed analysis protocols 
+          for measuring behavioral differences between conditions
+          - Performed data management, analysis (Shapiro-Wilks normality test, 
+          Student’s t-test, 2-way ANOVA, and Mann-Whitney U test), and 
+          visualization in Microsoft Excel and GraphPad Prism
+          - Mentored undergraduate students, supported and collaborated with 
+          other graduate students, postdoctoral fellows, and PIs
+          - Wrote, reviewed, and submitted grant proposals and manuscripts
+          
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
