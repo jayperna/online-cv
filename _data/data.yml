@@ -27,12 +27,6 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: 
-        level: 
-
-      - idiom: 
-        level: 
-
     interests:
       - item: Climbing
         link:
@@ -46,12 +40,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Neurobiologist with a strong background in molecular biology and microscopy
+      - Extensive background in preparing, staining, and imaging tissue
+      - Competent at preparing and analyzing cDNA libraries from RNA and 16S libaries from bacterial DNA
+      - Proficient in Python 3
+      - Excellent communication, teamwork, and writing skills
+      
 education:
     - degree: PhD in Molecular, Cell, and Developmental Biology
       university: University of California, Santa Cruz
@@ -111,17 +105,22 @@ experiences:
           other graduate students, postdoctoral fellows, and PIs
           - Wrote, reviewed, and submitted grant proposals and manuscripts
           
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Junior Specialist
+      time: 2012 - 2014
+      company: University of California, Santa Cruz
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       Investigated how fragile X syndrome affects the expression of cortical 
+       transcriptomes
+          - Purified total RNA from cerebral cortex tissue and developed a 
+          sucrose gradient centrifugation protocol for purifying polysomes 
+          and monosomes
+      details: |
+        Investigated how fragile X syndrome astrocytes contribute to brain 
+        and behavior abnormalities
+          - Contributed to performing behavioral assays and analysis
+          - Contributed to development and execution of western blot protocols
+          
+          
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
