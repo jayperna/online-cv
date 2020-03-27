@@ -47,31 +47,17 @@ career-profile:
       - Excellent communication, teamwork, and writing skills
       
 education:
-    - degree: PhD in Molecular, Cell, and Developmental Biology
+    - degree: Ph.D. in Molecular, Cell, and Developmental Biology
       university: University of California, Santa Cruz
-      time: 2014 - [expected 09/2020]
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Neuroscience and Behavior
+      time: 2014 - [expected 2020]
+
+    - degree: B.Sc. in Neuroscience and Behavior
       university: University of California, Santa Cruz
       time: 2006 - 2010
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
     - role: Ph.D. Candidate
-      time: 2014 - Present
+      time: 2014 - [expected 09/2020]
       company: University of California, Santa Cruz
       details: |
         Investigated how early-life penicillin exposure affects the 
@@ -80,24 +66,28 @@ experiences:
         behaviors and maturation of microbiota
           - Developed fluorescent and DAB IHC protocols as well as wide field 
           imaging protocols to measure neuronal and glial density differences 
-          between conditions
+          between control and experimental conditions
           - Developed a fluorescent IHC protocol, a confocal imaging protocol, 
           as well as a semiautomated analysis pipeline in Bitplane Imaris to 
-          measure morphological differences in microglia between different 
-          conditions
+          measure morphological differences in microglia between control and 
+          experimental conditions
           - Developed a semiautomated analysis pipeline in Bitplane Imaris to 
-          measure differences in microglial cell dynamics between conditions
+          measure differences in microglial cell dynamics between control and
+          experimental conditions
           - Purified total RNA from cerebral cortex tissue, synthesized cDNA, 
           and performed RT-qPCRs to quantify differences in expression for a 
-          number of genes between conditions and ages
+          number of genes between control and experimental conditions as well
+          as between different timepoints in development
           - Purified bacterial DNA, developed and performed a 16S library 
           preparation protocol for Illumina 2x300bp MiSeq, and performed data 
-          analysis to characterize differences between conditions
-          - Employed a number of mouse behavioral assays (Open Field Maze, 
+          analysis to characterize differences between control and experimental
+          conditions
+          - Employed a number of behavioral assays (Open Field Maze, 
           Novel Object Recognition Test, Y Maze Spontaneous Alteration Test, 
           Acoustic Startle Reflex and Prepulse Inhibition Tests, Three-
           Chamber Social Approach Test) and developed analysis protocols 
-          for measuring behavioral differences between conditions
+          for measuring behavioral differences between control and experimental
+          conditions
           - Performed data management, analysis (Shapiro-Wilks normality test, 
           Student’s t-test, 2-way ANOVA, and Mann-Whitney U test), and 
           visualization in Microsoft Excel and GraphPad Prism
@@ -110,28 +100,30 @@ experiences:
       company: University of California, Santa Cruz
       details: |
        Investigated how fragile X syndrome affects the expression of cortical 
-       transcriptomes
+       transcriptomes and how fragile X syndrome astrocytes contribute to brain
+       and behavior abnormalities
           - Purified total RNA from cerebral cortex tissue and developed a 
           sucrose gradient centrifugation protocol for purifying polysomes 
           and monosomes
-      details: |
-        Investigated how fragile X syndrome astrocytes contribute to brain 
-        and behavior abnormalities
-          - Contributed to performing behavioral assays and analysis
-          - Contributed to development and execution of western blot protocols
+          - Assayed and analyzed behavior
+          - Analyzed dendritic spine dynamics
+          - Performed western blots 
           
-          
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Postbaccalaureate Fellow
+      time: 2011 - 2012
+      company: National Cancer Institute, Bethesda, MD
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Investigated the regulation and maintenance of the touch dome epithelium, 
+        a structure composed of keratinocytes and Merkel cells that cumulatively 
+        provide a sense of shapes and edges, and attempted to generate a novel 
+        Merkel carcinoma mouse model
+          - Performed fluorescent IHC and X-gal staining protocols to identify a 
+          novel population of touch dome stem cells and demonstrated that nerve-
+          derived Sonic hedgehog (Shh) is necessary to maintain them
+          - Employed traditional restriction enzyme cloning techniques in an 
+          effort to generate an oncogenic construct that would drive expression 
+          of the large tumor antigen in mouse Merkel cells
+          
 projects:
     title: Projects
     intro: >
